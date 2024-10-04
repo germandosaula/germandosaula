@@ -11,19 +11,15 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, BOOTSTRAP AND JAVASCRIPT**
+- 🔭 I’m currently working on **Html, Css, Bootstrap and Js.**
 
 - 🌱 I’m currently learning code on **4GeeksAcademy.**
 
 - 📫 Feel free to reach me out **german.dosaula@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [LaHuella](https://discordapp.com/users/173816196720885760) my username!
-<!--Intro end-->
 
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -40,12 +36,6 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-  
-
-
-
 
 <div id="user-content-toc">
   <ul align="center">
@@ -76,8 +66,6 @@
   
 </p>
 
-
-
 <div align="center">
   
 <a href="https://visitcount.itsvg.in">
@@ -85,6 +73,5 @@
 </a>
   
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
