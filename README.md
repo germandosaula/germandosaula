@@ -10,6 +10,18 @@
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,react,figma,css,js,py,vscode,discord,ae,au,ps,ai," />
+  </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🔭 I’m currently developing on **JavaScript, React, Css, Bootstrap, Typescript, Mui, Node.js and Next.js.**
 
@@ -33,19 +45,6 @@
   </td>
 </tr>
 </table>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,java,js,py,vscode,discord,ae,au,ps,ai " />
-  </a>
-</p>
-
 
 
 <div id="user-content-toc">
