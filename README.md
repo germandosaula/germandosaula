@@ -11,9 +11,9 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on **Html, Css, Bootstrap and Js.**
+- 🔭 I’m currently developing on **JavaScript, React, Css, Bootstrap, Typescript, Mui, Node.js and Next.js.**
 
-- 🌱 I’m currently learning code on **4GeeksAcademy.**
+- 🌱 I’m currently exploring new libraries like **Shadcdn**, **MagicUI**, **Animata**.
 
 - 📫 Feel free to reach me out **german.dosaula@gmail.com**
 
