@@ -17,7 +17,7 @@
 
 - 📫 Feel free to reach me out **german.dosaula@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [LaHuella](https://discordapp.com/users/173816196720885760) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [LaHuella](https://discordapp.com/users/173816196720885760)!
 
 <p align="center">
 <table align="center">
